@@ -20,7 +20,7 @@ Chat participants can create and send messages also in real-time. Next to each m
 
 ## Frontend:
 ### DEMO:
-https://soi4an.github.io/node-chat--frontend/
+In development...
 
 ### Repo:
 https://github.com/Soi4An/node-chat--frontend/tree/develop
